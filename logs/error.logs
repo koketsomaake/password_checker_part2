@@ -1,0 +1,47 @@
+2020-01-17 12:01:21.136 [main] ERROR PasswordCheckerLogs - password should have at least one lowercase letter
+2020-01-17 12:01:21.136 [main] ERROR PasswordCheckerLogs - 
+2020-01-17 12:01:37.287 [main] ERROR PasswordCheckerLogs - password should have at least one special character
+2020-01-17 12:01:37.288 [main] ERROR PasswordCheckerLogs - 
+2020-03-17 12:03:54.956 [main] ERROR PasswordCheckerLogs - password should exist
+2020-03-17 12:03:54.957 [main] ERROR PasswordCheckerLogs - 
+2020-12-17 12:12:24.321 [main] ERROR PasswordCheckerLogs - password should be longer than 8 characters
+2020-12-17 12:12:24.321 [main] ERROR PasswordCheckerLogs - 12
+2020-17-17 12:17:12.085 [main] ERROR PasswordCheckerLogs - password should have at least one lowercase letter
+2020-17-17 12:17:12.085 [main] ERROR PasswordCheckerLogs - 
+2020-30-17 12:30:14.652 [main] ERROR PasswordCheckerLogs - Password is valid!
+2020-30-17 12:30:14.653 [main] ERROR PasswordCheckerLogs - 56543TLk_
+2020-30-17 12:30:14.653 [main] ERROR PasswordCheckerLogs - true
+2020-30-17 12:30:57.103 [main] ERROR PasswordCheckerLogs - password should have at least one special character
+2020-30-17 12:30:57.104 [main] ERROR PasswordCheckerLogs - 56543TLk
+2020-30-17 12:30:57.104 [main] ERROR PasswordCheckerLogs - true
+2020-42-17 12:42:30.045 [main] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-42-17 12:42:30.046 [main] ERROR PasswordCheckerLogs - 
+2020-42-17 12:42:30.046 [main] ERROR PasswordCheckerLogs - true
+2020-34-17 14:34:48.072 [main] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-34-17 14:34:48.073 [main] ERROR PasswordCheckerLogs - 
+2020-34-17 14:34:48.073 [main] ERROR PasswordCheckerLogs - true
+2020-36-17 14:36:04.369 [main] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-36-17 14:36:04.369 [main] ERROR PasswordCheckerLogs - 
+2020-36-17 14:36:04.370 [main] ERROR PasswordCheckerLogs - true
+2020-02-17 15:02:32.374 [Test worker] ERROR PasswordCheckerLogs - password should be longer than 8 characters
+2020-02-17 15:02:32.416 [Test worker] ERROR PasswordCheckerLogs - password should have at least one lowercase letter
+2020-02-17 15:02:32.423 [Test worker] ERROR PasswordCheckerLogs - password should have at least one digit
+2020-02-17 15:02:32.427 [Test worker] ERROR PasswordCheckerLogs - Password is valid!
+2020-02-17 15:02:32.441 [Test worker] ERROR PasswordCheckerLogs - password should have at least one special character
+2020-02-17 15:02:32.450 [Test worker] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-02-17 15:02:32.455 [Test worker] ERROR PasswordCheckerLogs - password should exist
+2020-04-17 15:04:34.712 [Test worker] ERROR PasswordCheckerLogs - Empty passwords are invalid!
+2020-04-17 15:04:34.719 [Test worker] ERROR PasswordCheckerLogs - Password must be 8 characters long!
+2020-06-17 15:06:32.589 [Test worker] ERROR PasswordCheckerLogs - password should exist
+2020-12-17 15:12:28.372 [Test worker] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-12-17 15:12:34.749 [Test worker] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-12-17 15:12:44.126 [Test worker] ERROR PasswordCheckerLogs - password should be longer than 8 characters
+2020-12-17 15:12:52.025 [Test worker] ERROR PasswordCheckerLogs - password should be longer than 8 characters
+2020-13-17 15:13:09.028 [Test worker] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-13-17 15:13:33.066 [Test worker] ERROR PasswordCheckerLogs - password should be longer than 8 characters
+2020-13-17 15:13:38.792 [Test worker] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-13-17 15:13:51.164 [Test worker] ERROR PasswordCheckerLogs - password should have at least one digit
+2020-03-24 16:03:15.351 [main] ERROR PasswordCheckerLogs - password should have at least one uppercase letter
+2020-03-24 16:03:15.353 [main] ERROR PasswordCheckerLogs - 
+2020-03-24 16:03:15.354 [main] ERROR PasswordCheckerLogs - true
+2020-10-24 16:10:36.414 [Test worker] ERROR PasswordCheckerLogging - password should exist
